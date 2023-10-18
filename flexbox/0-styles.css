@@ -179,11 +179,10 @@
   
   /* Grid
       ============================= */
-
-  .row {
+  .row{
     display: flex;
   }
-  
+
   ul.row {
     margin: 0;
     padding: 0;
@@ -259,7 +258,7 @@
     padding: var(--header-padding);
          position: relative;
          z-index: 3;
-         background: transparent !important;
+         background: transparent;
   }
   
   .header-logo {
