@@ -1,10 +1,14 @@
+ Fun-with-CSS
 
-Fun-with-CSS
+ Description
 
 Tasks
-0. Sprite languages
+
+ [0. Sprite languages](0-styles.css)
+
 By using this HTML:
 
+~~~html
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -21,15 +25,19 @@ By using this HTML:
         </ul>
     </body>
 </html>
-Create 0-styles.css and generate this layout:
+~~~
 
-alt
+**Create 0-styles.css and generate this layout:**
 
-You are not allowed to change the image and the HTML - sprite is cool!
+![alt](./images/sprite_result.png)
 
-1. Move the (under)line
+*You are not allowed to change the image and the HTML - sprite is cool!*
+
+ [1. Move the (under)line](1-styles.css)
+
 By using this HTML:
 
+~~~html
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -44,15 +52,19 @@ By using this HTML:
         </h2>
     </body>
 </html>
-Create 1-styles.css and generate this layout where the underline is hidden by default and appeared slowly…:
+~~~
 
-alt
+**Create 1-styles.css and generate this layout where the underline is hidden by default and appeared slowly…:**
 
-You are not allowed to change the HTML.
+![alt](./images/underline_result.gif)
 
-2. Toggle
+*You are not allowed to change the HTML.*
+
+ [2. Toggle](2-styles.css)
+
 By using this HTML:
 
+~~~html
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -71,19 +83,25 @@ By using this HTML:
         </div>
     </body>
 </html>
-Create 2-styles.css and generate this layout where the <input> is has this custom toggle layout:
+~~~
 
-Checked:
-alt
+**Create 2-styles.css and generate this layout where the \<input> is has this custom toggle layout:**
 
-Unchecked:
-alt
+* **Checked:**
 
-You are not allowed to change the HTML.
+![alt](images/check_on.png)
 
-3. Menu
+* **Unchecked:**
+
+![alt](images/check_off.png)
+
+*You are not allowed to change the HTML.*
+
+ [3. Menu](3-styles.css)
+
 By using this HTML:
 
+~~~html
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -112,9 +130,11 @@ By using this HTML:
 
     </body>
 </html>
-Create 3-styles.css and generate this layout/animation:
+~~~
 
-alt
+**Create 3-styles.css and generate this layout/animation:**
 
-You are not allowed to change the HTML.
+![alt](images/menu_animation.gif)
+
+*You are not allowed to change the HTML.*
 
