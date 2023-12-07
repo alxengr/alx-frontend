@@ -1,5 +1,4 @@
 
-Webstact-Portfolio Project-Pitch
 
  RESERVATION AND TICKETING SYSTEM
 
