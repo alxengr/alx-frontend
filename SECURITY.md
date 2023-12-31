@@ -1,6 +1,6 @@
-# Security Policy
+ Security Policy
 
-## Supported Versions
+ Supported Versions
 
 Use this section to tell people about which versions of your project are
 currently being supported with security updates.
@@ -12,7 +12,7 @@ currently being supported with security updates.
 |           | :mysqldB:          |
 |           | :php:              |
 
-## Reporting a Vulnerability
+ Reporting a Vulnerability
 
 Use this section to tell people how to report a vulnerability.
 
